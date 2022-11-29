@@ -7,7 +7,9 @@ For localization of multiple languages (w/ language switcher), please refer to [
 Credits to Jun Aita for the Japanese translation file
 
 ![Flex 2.0 - Japanese - Main](docs/flex_ui_japanese.png)
+
 ![Flex 2.0 - Japanese - Teams](docs/flex_ui_teams.png)
+
 ![Flex 2.0 - Japanese - Queue Stats](docs/flex_ui_queue_stats.png)
 
 ---
